@@ -1,0 +1,178 @@
+basics:
+  name: Jonathan Machado
+  label: Staff Backend Engineer
+  image: ""
+  email: ""
+  phone: ""
+  url: ""
+  summary: ""
+  location:
+    city: ""
+    region: ""
+    countryCode: "GB"
+  profiles:
+    - network: LinkedIn
+      username: jonathanfmachado
+      url: https://www.linkedin.com/in/jonathanfmachado/
+    - network: GitHub
+      username: jonathanmach
+      url: https://github.com/jonathanmach
+
+work:
+  - name: Sano Genetics
+    location: Cambridge, England, United Kingdom
+    description: >
+      Our mission is to accelerate the future of personalised medicine.
+      We’re putting participants at the heart of the research experience,
+      making science accessible by providing educational materials,
+      easy-at-home genetic sequencing, and a privacy-first approach.
+    position: Staff Backend Engineer
+    url: https://www.linkedin.com/company/18190927/
+    startDate: 2024-07
+    endDate: ""
+    summary: ""
+    highlights: []
+
+  - name: Sano Genetics
+    location: Cambridge, England, United Kingdom
+    description: ""
+    position: Backend Engineering Lead
+    url: https://www.linkedin.com/company/18190927/
+    startDate: 2022-03
+    endDate: 2024-07
+    summary: ""
+    highlights: []
+
+  - name: Sano Genetics
+    location: Cambridge, England, United Kingdom
+    description: >
+      Our mission is to accelerate the future of personalised medicine.
+      We’re putting participants at the heart of the research experience,
+      making science accessible by providing educational materials,
+      easy-at-home genetic sequencing, and a privacy-first approach.
+    position: Full Stack Engineer
+    url: https://www.linkedin.com/company/18190927/
+    startDate: 2020-11
+    endDate: 2022-03
+    summary: ""
+    highlights: []
+
+  - name: Atex
+    location: Brazil
+    description: ""
+    position: Technical Project Manager
+    url: https://www.linkedin.com/company/162569/
+    startDate: 2013-01
+    endDate: 2020-10
+    summary: ""
+    highlights:
+      - Successfully implemented several long-term projects for major Brazilian media companies, focused on editorial content management systems.
+      - Led a team of 10+ professionals, both locally and remotely, ensuring seamless collaboration and project delivery.
+      - Acted as a key liaison between customers and the product management teams in England and Italy, ensuring customer requirements were effectively communicated and met.
+      - Conducted demos, presentations, and training sessions, enhancing stakeholder engagement and product understanding.
+
+  - name: Atex
+    location: Brazil
+    description: ""
+    position: IT Consultant
+    url: https://www.linkedin.com/company/162569/
+    startDate: 2010-05
+    endDate: 2012-12
+    summary: ""
+    highlights:
+      - Assisted in the successful delivery of three major projects focused on the implementation of editorial systems, training over 200 users.
+      - Played a key role in defining new workflows and implementing software customizations using Python.
+      - Provided comprehensive troubleshooting and full-time support, ensuring smooth project operations and user satisfaction.
+
+  - name: Self-employed
+    location: ""
+    description: ""
+    position: Full Stack Developer (Freelance)
+    url: ""
+    startDate: 2017-01
+    endDate: 2020-09
+    summary: ""
+    highlights:
+      - "Front-end: JavaScript, ES6, Vue.js, Vuex, Nuxt.js."
+      - "Back-end: Node.js, Strapi, Python, Django, REST API design."
+
+  - name: Udacity
+    location: ""
+    description: ""
+    position: Mentor / Code Reviewer (Contract)
+    url: https://www.linkedin.com/company/2475568/
+    startDate: 2018-01
+    endDate: 2020-08
+    summary: ""
+    highlights:
+      - Utilized specialized knowledge in Full Stack Web Development and strong communication skills to provide project reviews and support services to students.
+
+  - name: Imprensa Oficial
+    location: Greater São Paulo Area
+    description: ""
+    position: Database Administrator (Internship)
+    url: https://www.linkedin.com/company/49432/
+    startDate: 2008-12
+    endDate: 2010-06
+    summary: ""
+    highlights:
+      - Responsible for maintaining over 6 Microsoft SQL Server environments.
+      - Configured new servers, developed stored procedures and reports, and monitored and troubleshot issues.
+
+education:
+  - institution: FGV - Fundação Getulio Vargas
+    url: https://www.linkedin.com/company/8175/
+    area: Project Management
+    studyType: Master of Business Administration (MBA)
+    startDate: 2013
+    endDate: 2015
+    score: ""
+    courses:
+      - International MBA in Project Management (in partnership with University of California, Irvine Extension)
+
+  - institution: Udacity
+    url: https://www.linkedin.com/company/2475568/
+    area: Information Technology
+    studyType: Full Stack Developer Nanodegree
+    startDate: 2017
+    endDate: 2017
+    score: ""
+    courses:
+      - >
+        Program co-created by Google, AT&T, and Amazon focused on
+        server-side web applications, relational databases,
+        and Linux server configuration and security.
+
+  - institution: Uninove - Universidade Nove de Julho
+    url: https://www.linkedin.com/company/27927/
+    area: Systems Analysis and Development
+    studyType: Degree
+    startDate: 2008
+    endDate: 2010
+    score: ""
+    courses: []
+
+  - institution: Senai São Paulo
+    url: https://www.linkedin.com/company/1173988/
+    area: Industrial Electronics Technology
+    studyType: Technical Degree
+    startDate: 2005
+    endDate: 2007
+    score: ""
+    courses: []
+
+certificates:
+  - name: Microsoft® Certified Technology Specialist - SQL Server 2005
+    issuer: Microsoft
+    date: ""
+    url: https://www.linkedin.com/company/1035/
+    id: "7383262"
+
+volunteer: []
+awards: []
+publications: []
+skills: []
+languages: []
+interests: []
+references: []
+projects: []
