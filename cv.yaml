@@ -5,7 +5,12 @@ basics:
   email: ""
   phone: ""
   url: ""
-  summary: ""
+  summary: >
+    Staff Backend Engineer with extensive experience designing, scaling,
+    and leading backend systems across healthcare, media, and platform products.
+    Strong background in designing and implementing data-intensive applications
+    and technical leadership, with a proven track record of mentoring engineers,
+    driving architectural decisions, and delivering high-impact solutions.
   location:
     city: ""
     region: ""
@@ -22,16 +27,20 @@ work:
   - name: Sano Genetics
     location: Cambridge, England, United Kingdom
     description: >
-      Our mission is to accelerate the future of personalised medicine.
-      We’re putting participants at the heart of the research experience,
-      making science accessible by providing educational materials,
-      easy-at-home genetic sequencing, and a privacy-first approach.
+      Health technology company focused on accelerating the future of personalised
+      medicine through participant-centric research, at-home genetic sequencing,
+      and a strong privacy-first approach.
     position: Staff Backend Engineer
     url: https://www.linkedin.com/company/18190927/
     startDate: 2024-07
     endDate: ""
-    summary: ""
-    highlights: []
+    summary: >
+      Senior individual contributor responsible for technical direction,
+      backend architecture, and cross-team collaboration.
+    highlights:
+      - Drive architectural decisions for backend services and data platforms.
+      - Provide technical leadership and mentorship across engineering teams.
+      - Partner closely with product, data, and platform teams to deliver scalable solutions.
 
   - name: Sano Genetics
     location: Cambridge, England, United Kingdom
@@ -40,22 +49,30 @@ work:
     url: https://www.linkedin.com/company/18190927/
     startDate: 2022-03
     endDate: 2024-07
-    summary: ""
-    highlights: []
+    summary: >
+      Led the backend engineering function, balancing hands-on development
+      with people leadership and technical strategy.
+    highlights:
+      - Led and mentored backend engineers, fostering strong engineering practices.
+      - Owned delivery and reliability of critical backend systems.
+      - Acted as a key contributor to system design and long-term technical roadmap.
 
   - name: Sano Genetics
     location: Cambridge, England, United Kingdom
     description: >
-      Our mission is to accelerate the future of personalised medicine.
-      We’re putting participants at the heart of the research experience,
-      making science accessible by providing educational materials,
-      easy-at-home genetic sequencing, and a privacy-first approach.
+      Health technology company focused on accelerating the future of personalised
+      medicine through participant-centric research and genetic data platforms.
     position: Full Stack Engineer
     url: https://www.linkedin.com/company/18190927/
     startDate: 2020-11
     endDate: 2022-03
-    summary: ""
-    highlights: []
+    summary: >
+      Contributed across backend and frontend systems, supporting rapid product
+      development in an early-stage environment.
+    highlights:
+      - Built and maintained backend services and APIs.
+      - Collaborated closely with product and design to deliver end-to-end features.
+      - Supported platform scalability as the company grew.
 
   - name: Atex
     location: Brazil
@@ -64,12 +81,14 @@ work:
     url: https://www.linkedin.com/company/162569/
     startDate: 2013-01
     endDate: 2020-10
-    summary: ""
+    summary: >
+      Technical leader responsible for delivering large-scale editorial
+      and content management solutions for major media organizations.
     highlights:
-      - Successfully implemented several long-term projects for major Brazilian media companies, focused on editorial content management systems.
-      - Led a team of 10+ professionals, both locally and remotely, ensuring seamless collaboration and project delivery.
-      - Acted as a key liaison between customers and the product management teams in England and Italy, ensuring customer requirements were effectively communicated and met.
-      - Conducted demos, presentations, and training sessions, enhancing stakeholder engagement and product understanding.
+      - Delivered multiple long-term, high-visibility projects for leading Brazilian media companies.
+      - Led multidisciplinary teams of 10+ engineers and consultants, both locally and remotely.
+      - Acted as the primary technical liaison between customers and international product teams.
+      - Delivered product demos, stakeholder presentations, and hands-on training sessions.
 
   - name: Atex
     location: Brazil
@@ -78,11 +97,13 @@ work:
     url: https://www.linkedin.com/company/162569/
     startDate: 2010-05
     endDate: 2012-12
-    summary: ""
+    summary: >
+      Consultant focused on implementing and customizing editorial systems
+      for enterprise clients.
     highlights:
-      - Assisted in the successful delivery of three major projects focused on the implementation of editorial systems, training over 200 users.
-      - Played a key role in defining new workflows and implementing software customizations using Python.
-      - Provided comprehensive troubleshooting and full-time support, ensuring smooth project operations and user satisfaction.
+      - Supported delivery of multiple large editorial system implementations.
+      - Designed and implemented workflow customizations using Python.
+      - Trained and supported over 200 end users across multiple organizations.
 
   - name: Self-employed
     location: ""
@@ -91,10 +112,12 @@ work:
     url: ""
     startDate: 2017-01
     endDate: 2020-09
-    summary: ""
+    summary: >
+      Independent consultant delivering full-stack web solutions for a range of clients.
     highlights:
-      - "Front-end: JavaScript, ES6, Vue.js, Vuex, Nuxt.js."
-      - "Back-end: Node.js, Strapi, Python, Django, REST API design."
+      - Frontend development using JavaScript (ES6), Vue.js, Vuex, and Nuxt.js.
+      - Backend development using Node.js, Python, Django, Strapi, and RESTful APIs.
+      - Delivered production-ready applications from concept to deployment.
 
   - name: Udacity
     location: ""
@@ -103,9 +126,12 @@ work:
     url: https://www.linkedin.com/company/2475568/
     startDate: 2018-01
     endDate: 2020-08
-    summary: ""
+    summary: >
+      Mentor and reviewer for Full Stack Web Development programs.
     highlights:
-      - Utilized specialized knowledge in Full Stack Web Development and strong communication skills to provide project reviews and support services to students.
+      - Reviewed student projects and provided detailed technical feedback.
+      - Helped learners improve code quality, architecture, and problem-solving skills.
+      - Supported students through complex backend and deployment challenges.
 
   - name: Imprensa Oficial
     location: Greater São Paulo Area
@@ -114,10 +140,12 @@ work:
     url: https://www.linkedin.com/company/49432/
     startDate: 2008-12
     endDate: 2010-06
-    summary: ""
+    summary: >
+      Early-career role focused on database operations and reliability.
     highlights:
-      - Responsible for maintaining over 6 Microsoft SQL Server environments.
-      - Configured new servers, developed stored procedures and reports, and monitored and troubleshot issues.
+      - Maintained and monitored multiple Microsoft SQL Server environments.
+      - Configured new servers and implemented stored procedures and reports.
+      - Supported troubleshooting and performance tuning activities.
 
 education:
   - institution: FGV - Fundação Getulio Vargas
@@ -128,7 +156,7 @@ education:
     endDate: 2015
     score: ""
     courses:
-      - International MBA in Project Management (in partnership with University of California, Irvine Extension)
+      - International MBA in Project Management, delivered in partnership with University of California, Irvine Extension
 
   - institution: Udacity
     url: https://www.linkedin.com/company/2475568/
@@ -139,9 +167,9 @@ education:
     score: ""
     courses:
       - >
-        Program co-created by Google, AT&T, and Amazon focused on
-        server-side web applications, relational databases,
-        and Linux server configuration and security.
+        Program co-created by Google, AT&T, and Amazon, focused on building
+        production-grade server-side web applications, relational databases,
+        and secure Linux-based deployments.
 
   - institution: Uninove - Universidade Nove de Julho
     url: https://www.linkedin.com/company/27927/
@@ -162,7 +190,7 @@ education:
     courses: []
 
 certificates:
-  - name: Microsoft® Certified Technology Specialist - SQL Server 2005
+  - name: Microsoft® Certified Technology Specialist – SQL Server 2005
     issuer: Microsoft
     date: ""
     url: https://www.linkedin.com/company/1035/
