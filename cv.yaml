@@ -203,4 +203,12 @@ skills: []
 languages: []
 interests: []
 references: []
-projects: []
+projects:
+  - name: "Google OAuth2 Authentication Integration"
+    startDate: 2025-Q1
+    endDate: 2025-Q1
+    description: "Implemented Google authentication using the OAuth2 authorization code flow."
+    highlights:
+      - "Implemented OAuth2 authorization code flow (redirect, user consent, callback handling)."
+      - "Handled authorization code exchange, token validation, and refresh logic."
+      - "Integrated authenticated sessions with the application backend."
