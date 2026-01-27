@@ -14,7 +14,7 @@ basics:
   location:
     city: ""
     region: "West Midlands"
-    countryCode: "GB"
+    countryCode: "UK"
   profiles:
     - network: LinkedIn
       username: jonathanfmachado
