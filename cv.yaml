@@ -13,7 +13,7 @@ basics:
     driving architectural decisions, and delivering high-impact solutions.
   location:
     city: ""
-    region: ""
+    region: "West Midlands"
     countryCode: "GB"
   profiles:
     - network: LinkedIn
