@@ -212,3 +212,13 @@ projects:
       - "Implemented OAuth2 authorization code flow (redirect, user consent, callback handling)."
       - "Handled authorization code exchange, token validation, and refresh logic."
       - "Integrated authenticated sessions with the application backend."
+
+  - name: "Configurable Study Workflow and Survey Platform"
+    startDate: 2022-Q4
+    endDate: 2023-Q3
+    description: "Built from scratch: designed and implemented a flexible workflow and survey system powering complex, study-driven user experiences."
+    highlights:
+    - "Built a rule-driven workflow engine supporting branching, guards, and conditional progression."
+    - "Implemented a survey system (Typeform/Google Forms–like) for structured data collection within studies."
+    - "Enabled product teams to define complex study logic and participant journeys via configuration."
+    - "Shaped the end-to-end participant experience by coupling workflow execution with data capture."
